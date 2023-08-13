@@ -19,7 +19,6 @@ public class NumberClassifierAdd {
         } else {
             System.out.print("negative");
         }
-
         double abs = Math.abs(num);
         if (abs < 1) {
             System.out.println(", small");
